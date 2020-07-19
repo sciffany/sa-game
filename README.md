@@ -20,4 +20,4 @@ Step 2: Copy the extension folder to the extension directory.
 $HOME/.vscode/extensions
 ```
 
-Step 3: While using the .txt, change language to Sa
+Step 3: While using the .txt, change language to Sa (bottom right corner in VS Code)
